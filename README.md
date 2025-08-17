@@ -11,18 +11,18 @@ ds_Geeth_Sahith/
 ├── notebook_1.ipynb
 ├── notebook_2.ipynb
 ├── csv_files/                     
-│   └── historical_data.csv <br>    
+│   └── historical_data.csv 
 │   └── fear_greed_index.csv <br>
 │   └── cleaned_trades.csv <br>
 │   └── cleaned_fear_greed.csv <br>
 │   └── final_merged_dataset.csv <br>
 ├── outputs/                       
-│   └── Pro-sentiment_vs_Contrarian.png <br>                                
-│   └── Confusion_Matrix(XGBoost).png <br>               
-│   └── win_rate_sentiment(Side).png <br>                     
-│   └── Side(Buy and Sell).png <br>                     
-│   └── Average_pnl.png <br>                     
-│   └── SentimentDistribution.png <br>
+│   └── Pro-sentiment_vs_Contrarian.png                                 
+│   └── Confusion_Matrix(XGBoost).png                
+│   └── win_rate_sentiment(Side).png                      
+│   └── Side(Buy and Sell).png                      
+│   └── Average_pnl.png                 
+│   └── SentimentDistribution.png 
 ├── ds_report.pdf                  
 └── README.md   
 
@@ -35,5 +35,6 @@ matplotlib
 seaborn 
 scipy
 statsmodels
+
 
 
