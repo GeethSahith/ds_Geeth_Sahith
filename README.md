@@ -11,11 +11,11 @@ ds_Geeth_Sahith/
 ├── notebook_1.ipynb
 ├── notebook_2.ipynb
 ├── csv_files/                     
-│   └── historical_data.csv     
-│   └── fear_greed_index.csv
-│   └── cleaned_trades.csv
-│   └── cleaned_fear_greed.csv
-│   └── final_merged_dataset.csv
+│   └── historical_data.csv <br>    
+│   └── fear_greed_index.csv <br>
+│   └── cleaned_trades.csv <br>
+│   └── cleaned_fear_greed.csv <br>
+│   └── final_merged_dataset.csv <br>
 ├── outputs/                       
 │   └── *.png / *.jpg              
 ├── ds_report.pdf                  
@@ -30,3 +30,4 @@ matplotlib
 seaborn 
 scipy
 statsmodels
+
