@@ -17,7 +17,12 @@ ds_Geeth_Sahith/
 │   └── cleaned_fear_greed.csv <br>
 │   └── final_merged_dataset.csv <br>
 ├── outputs/                       
-│   └── *.png / *.jpg              
+│   └── Pro-sentiment_vs_Contrarian.png <br>                                
+│   └── Confusion_Matrix(XGBoost).png <br>               
+│   └── win_rate_sentiment(Side).png <br>                     
+│   └── Side(Buy and Sell).png <br>                     
+│   └── Average_pnl.png <br>                     
+│   └── SentimentDistribution.png <br>
 ├── ds_report.pdf                  
 └── README.md   
 
@@ -30,4 +35,5 @@ matplotlib
 seaborn 
 scipy
 statsmodels
+
 
